@@ -1,0 +1,7 @@
+C:\Users\Matrix_14\source\repos\Operatorler\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\Matrix_14\source\repos\Operatorler\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\Matrix_14\source\repos\Operatorler\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\Matrix_14\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.AssemblyReference.cache
+C:\Users\Matrix_14\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Matrix_14\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\Matrix_14\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.pdb
